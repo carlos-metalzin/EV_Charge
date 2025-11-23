@@ -1,0 +1,12 @@
+ID;Nome;RFID;Apartamento;Condomínio;FinalPlaca;Tipo;UltEnergia;UltCusto;UltTempoMin
+1;Paulo Bora;b3950a25;3;Guimares Rosa;05;Eletrico;;;
+2;João Souza;0fbb65a9;1001;Residencial Atlântico;56;híbrido;;;
+3;Marina Costa;a1b2c3d4;301;Parque das Araucárias;78;elétrico;;;
+4;Pedro Lima;00ff11aa;45B;Vila do Horizonte;12;híbrido;;;
+5;Carla Mendes;abcdef12;2203;Jardins do Ibirapuera;90;elétrico;;;
+6;Rafael Nunes;deadbeef;8;Porto do Sol;07;híbrido;;;
+7;Beatriz Rocha;cafebabe;PH2;Bosque das Mangueiras;66;elétrico;;;
+8;Luís Alberto;0a0b0c0d;1702;Praia do Farol;55;híbrido;;;
+9;Patrícia Reis;1234abcd;T3;Vale Verde;21;elétrico;;;
+10;Gustavo Teles;0f0e0d0c;906;Mirante do Lago;44;híbrido;;;
+11;Carlos Augusto;b458a025;16;Vila Sessamo;06;elétrico;;;
